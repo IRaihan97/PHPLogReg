@@ -1,0 +1,1022 @@
+180110 10:00:27 [Note] Plugin 'FEDERATED' is disabled.
+180110 10:00:27 InnoDB: The InnoDB memory heap is disabled
+180110 10:00:27 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+180110 10:00:27 InnoDB: Compressed tables use zlib 1.2.3
+180110 10:00:27 InnoDB: Initializing buffer pool, size = 128.0M
+180110 10:00:27 InnoDB: Completed initialization of buffer pool
+180110 10:00:27 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+180110 10:00:27  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+180110 10:00:27  InnoDB: Waiting for the background threads to start
+180110 10:00:28 InnoDB: 1.1.8 started; log sequence number 1633499
+180110 10:08:46 [Note] Plugin 'FEDERATED' is disabled.
+180110 10:08:46 InnoDB: The InnoDB memory heap is disabled
+180110 10:08:46 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+180110 10:08:46 InnoDB: Compressed tables use zlib 1.2.3
+180110 10:08:46 InnoDB: Initializing buffer pool, size = 128.0M
+180110 10:08:46 InnoDB: Completed initialization of buffer pool
+180110 10:08:46 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+180110 10:08:46  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+180110 10:08:46  InnoDB: Waiting for the background threads to start
+180110 10:08:47 InnoDB: 1.1.8 started; log sequence number 1633499
+180110 10:13:41 [Note] Plugin 'FEDERATED' is disabled.
+180110 10:13:41 InnoDB: The InnoDB memory heap is disabled
+180110 10:13:41 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+180110 10:13:41 InnoDB: Compressed tables use zlib 1.2.3
+180110 10:13:41 InnoDB: Initializing buffer pool, size = 128.0M
+180110 10:13:41 InnoDB: Completed initialization of buffer pool
+180110 10:13:42  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:13:52  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:14:02  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:14:12  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:14:22  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:14:32  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:14:42  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:14:52  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:15:02  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:15:12  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:15:22  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:15:32  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:15:42  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:15:52  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:16:02  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:16:12  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:16:22  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:16:32  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:16:42  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:16:52  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:17:02  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:17:12  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:17:22  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:17:32  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:17:42  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:17:52  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:18:02  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:18:12  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:18:22  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:18:32  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:18:42  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:18:52  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:19:02  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:19:12  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:19:22  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:19:32  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:19:42  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:19:52  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:20:02  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:20:12  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:20:22  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:20:32  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:20:42  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:20:52  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:21:02  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:21:12  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:21:22  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:21:32  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:21:42  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:21:52  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:22:02  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:22:12  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:22:22  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:22:32  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:22:42  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:22:52  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:23:02  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:23:12  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:23:22  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:23:32  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:23:42  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:23:52  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:24:02  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:24:12  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:24:22  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:24:33  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:24:43  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:24:53  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:25:03  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:25:13  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:25:23  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:25:33  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:25:43  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:25:53  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:26:03  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:26:13  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:26:23  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:26:33  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:26:43  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:26:53  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:27:03  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:27:13  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:27:23  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:27:33  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:27:43  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:27:53  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:28:03  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:28:13  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:28:23  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:28:33  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:28:43  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:28:53  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:29:03  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:29:13  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:29:23  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:29:33  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:29:43  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:29:53  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:30:03  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:30:13  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:30:23  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:30:33  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:30:43  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:30:53  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:31:03  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:31:13  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:31:23  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:31:33  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:31:43  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:31:53  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:32:03  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:32:13  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:32:23  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:32:33  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:32:43  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:32:53  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:33:03  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:33:13  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:33:23  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:33:33  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:33:43  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:33:53  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:34:03  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:34:13  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:34:23  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:34:33  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:34:43  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:34:53  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:35:03  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:35:13  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:35:24  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:35:34  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:35:44  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:35:54  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:36:04  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:36:14  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:36:24  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:36:34  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:36:44  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:36:54  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:37:04  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:37:14  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:37:24  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:37:34  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:37:44  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:37:54  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:38:04  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:38:14  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:38:24  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:38:34  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:38:44  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:38:54  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:39:04  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:39:14  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:39:24  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:39:34  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:39:44  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:39:54  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:40:04  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:40:14  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:40:24  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:40:34  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:40:44  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:40:54  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:41:04  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:41:14  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:41:24  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:41:34  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:41:45  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:41:55  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:42:05  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:42:15  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:42:25  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:42:35  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:42:45  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:42:55  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:43:05  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:43:15  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:43:25  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:43:35  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:43:45  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:43:55  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:44:05  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:44:15  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:44:25  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:44:35  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:44:45  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:44:55  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:45:05  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:45:15  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:45:25  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:45:35  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:45:45  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:45:55  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:46:05  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:46:15  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:46:25  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:46:35  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:46:45  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:46:55  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:47:05  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:47:15  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:47:25  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:47:35  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:47:45  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:47:55  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:48:05  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:48:15  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:48:25  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:48:35  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:48:45  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:48:55  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:49:05  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:49:15  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:49:25  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:49:35  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:49:45  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:49:55  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:50:05  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:50:15  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:50:25  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:50:35  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:50:45  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:50:55  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:51:05  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:51:15  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:51:25  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:51:35  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:51:45  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:51:56  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:52:06  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:52:16  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:52:26  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:52:36  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:52:46  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:52:56  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:53:06  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180110 10:53:16  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180319 15:06:11 [Note] Plugin 'FEDERATED' is disabled.
+180319 15:06:11 InnoDB: The InnoDB memory heap is disabled
+180319 15:06:11 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+180319 15:06:11 InnoDB: Compressed tables use zlib 1.2.3
+180319 15:06:11 InnoDB: Initializing buffer pool, size = 128.0M
+180319 15:06:11 InnoDB: Completed initialization of buffer pool
+180319 15:06:11 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+180319 15:06:11  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+180319 15:06:12  InnoDB: Waiting for the background threads to start
+180319 15:06:13 InnoDB: 1.1.8 started; log sequence number 1693881
+180319 16:12:03 [Note] Plugin 'FEDERATED' is disabled.
+180319 16:12:03 InnoDB: The InnoDB memory heap is disabled
+180319 16:12:03 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+180319 16:12:03 InnoDB: Compressed tables use zlib 1.2.3
+180319 16:12:03 InnoDB: Initializing buffer pool, size = 128.0M
+180319 16:12:03 InnoDB: Completed initialization of buffer pool
+180319 16:12:03 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+180319 16:12:03  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+180319 16:12:04  InnoDB: Waiting for the background threads to start
+180319 16:12:05 InnoDB: 1.1.8 started; log sequence number 1712241
